@@ -163,4 +163,4 @@ const adminDashboard = async (req,res)=>{
  
 
 
-export {addDoctor,loginAdmin, allDoctors , appointmentsAdmin, appointmentCancel, adminDashboard}
+export {addDoctor, loginAdmin, allDoctors, appointmentsAdmin, appointmentCancel, adminDashboard}
